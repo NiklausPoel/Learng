@@ -7,8 +7,6 @@ Git is free software distributed under the GPL.
 hello world!!!
 
 
-丹丹赵
-
 Creating a new branch is quick AND simple.
 
 
